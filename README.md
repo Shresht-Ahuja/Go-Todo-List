@@ -14,3 +14,8 @@ A simple Todo application built in Go using the Command Line Interface (CLI).
 Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Shresht-Ahuja/Go-Todo-List.git
+```
+Run the code using
+   ```bash
+   go run ./
+```
