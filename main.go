@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+const file = "todos.json"
+
 func main() {
 	var todos Todos
 
